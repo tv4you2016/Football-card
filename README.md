@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
-FootBall Cardfor [Home Assistant](https://www.home-assistant.io) Lovelace UI. 
+FootBall Cardfor [Home Assistant](https://www.home-assistant.io) Lovelace UI.
 
 ![FootBall-card](https://user-images.githubusercontent.com/83761813/209712028-2a522f7b-06ce-4a79-9dd2-44af41d31ded.png)
 
