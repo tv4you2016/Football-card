@@ -11,7 +11,7 @@ FootBall Cardfor [Home Assistant](https://www.home-assistant.io) Lovelace UI.
 | Plugin | README |
 | ------ | ------ |
 | Node-Red | https://github.com/hassio-addons/addon-node-red|
-
+| Dark-mode | Select the theame dark-mode in Home-Assistant |
 
 ## Installing
 
