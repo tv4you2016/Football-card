@@ -1,6 +1,9 @@
 # FootBall Card
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
+
+
+
 
 FootBall Cardfor [Home Assistant](https://www.home-assistant.io) Lovelace UI.
 
