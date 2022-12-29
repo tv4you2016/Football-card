@@ -6,6 +6,12 @@ FootBall Cardfor [Home Assistant](https://www.home-assistant.io) Lovelace UI.
 
 ![FootBall-card](https://user-images.githubusercontent.com/83761813/209712028-2a522f7b-06ce-4a79-9dd2-44af41d31ded.png)
 
+##   Pre-requisites:
+
+| Plugin | README |
+| ------ | ------ |
+| Node-Red | https://github.com/hassio-addons/addon-node-red|
+
 
 ## Installing
 
